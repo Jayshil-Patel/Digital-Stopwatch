@@ -9,4 +9,4 @@
 >[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayshil-Patel)
 
 ## Image
->![cannot load the image](https://github.com/Jayshil-Patel/Digital-Stopwatch/blob/main/Image/IMG_20191005_114740.jpg=250x)
+>![cannot load the image](https://github.com/Jayshil-Patel/Digital-Stopwatch/blob/main/Image/IMG_20191005_114740.jpg =250x)
