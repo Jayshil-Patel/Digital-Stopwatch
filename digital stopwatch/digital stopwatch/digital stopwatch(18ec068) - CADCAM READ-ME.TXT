@@ -1,0 +1,45 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'digital stopwatch(18ec068).LYT'.
+CADCAM generated at 11:16:40 PM on Friday, October 4, 2019.
+
+File List
+---------
+Top Copper              : digital stopwatch(18ec068) - CADCAM Top Copper.TXT
+Bottom Copper           : digital stopwatch(18ec068) - CADCAM Bottom Copper.TXT
+Top Silk Screen         : digital stopwatch(18ec068) - CADCAM Top Silk Screen.TXT
+Top Solder Resist       : digital stopwatch(18ec068) - CADCAM Top Solder Resist.TXT
+Bottom Solder Resist    : digital stopwatch(18ec068) - CADCAM Bottom Solder Resist.TXT
+Drill                   : digital stopwatch(18ec068) - CADCAM Drill.TXT
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 2.4, imperial, absolute, eob=*, LZO
+Notes:  D=Diameter, S=Side, W=Width, H=Height
+
+D10	CIRCLE	D=12th                                      DRAW
+D11	CIRCLE	D=50th                                      FLASH
+D12	DIL	W=60th                H=100th               FLASH
+D13	SQUARE	S=80th                                      FLASH
+D14	SQUARE	S=50th                                      FLASH
+D15	CIRCLE	D=70th                                      FLASH
+D16	CIRCLE	D=8th                                       DRAW
+D17	DIL	W=80th                H=120th               FLASH
+D18	SMT	W=100th               H=100th               FLASH
+D19	SMT	W=70th                H=70th                FLASH
+D70	CIRCLE	D=90th                                      FLASH
+
+NC Drill Setup
+--------------
+Format: ASCII, 2.4, imperial, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	20th (0-15)
+T02	30th (0-15)
+T03	40th (0-15)
+
+
+[END OF FILE]
